@@ -1,4 +1,4 @@
-body{background: white url(https://cloud.githubusercontent.com/assets/18086617/19939199/a18ebc22-a130-11e6-9289-c19e16070f95.png);margin: 0;padding: 0;font: 26px/32px Arial, Tahoma, sans-serif;}
+body{background: white url(images.11/symphony.png);margin: 0;padding: 0;font: 26px/32px Arial, Tahoma, sans-serif;}
 a{text-decoration: none;}
 a:hover{transition: all 0.5s;}
 
@@ -23,7 +23,6 @@ p.disk a:hover{background: #068bac;border: 1px solid #046d88;}
 .menu ul li{margin: 5px 15px;display: inline-block;}
 .menu ul li a{color:#fff;text-transform: uppercase;text-shadow: 2px 2px 4px #0b4455;}
 .menu ul li a:hover{color:#a3a1f3;}
-.block {width: 440px;}
 .block a{color: #272727;}
 .block{width: 440px;height: 200px;float:left;}
 .block:nth-of-type(even){float: right;}
@@ -65,7 +64,7 @@ p.disk a:hover{background: #068bac;border: 1px solid #046d88;}
 	.block{width: 45%;}
 	.anons img, .rek img {width: 100%;}
 	.afisha img{width: 100%;}
-	.rek img{margin-left:10px; width: 80%}
+	.rek img{margin-top width: 80%}
 }
 @media screen and (max-width: 640px){
 	.header{text-align: center;}
@@ -76,6 +75,5 @@ p.disk a:hover{background: #068bac;border: 1px solid #046d88;}
 	.footer span{margin: 10px 0; display: block;}
 	.afisha img{width: 0%;}
 	.rek img{width: 0%;}
-	.block{height: 250px;}
 	.block{height: 250px;}
 }
